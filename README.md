@@ -35,3 +35,20 @@
 - A colorchooser case:
 
 [![](/img/colorchooser.png)](colorchooser.py)
+
+- A text case:
+
+[![](/img/text.png)](text.py)
+
+- A filedialog case:
+
+[![](/img/filedialog.png)](filedialog.py)
+
+
+- A saveas case:
+
+[![](/img/saveas.png)](saveas.py)
+
+- A menubar case:
+
+[![](/img/menubar.png)](menubar.py)
