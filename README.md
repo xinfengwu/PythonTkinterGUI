@@ -52,3 +52,11 @@
 - A menubar case:
 
 [![](/img/menubar.png)](menubar.py)
+
+- A frame case:
+
+[![](/img/frame.png)](frame.py)
+
+- A new window case:
+
+[![](/img/newwindow.png)](newwindow.py)
