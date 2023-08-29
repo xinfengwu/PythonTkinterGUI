@@ -44,7 +44,6 @@
 
 [![](/img/filedialog.png)](filedialog.py)
 
-
 - A saveas case:
 
 [![](/img/saveas.png)](saveas.py)
@@ -60,3 +59,39 @@
 - A new window case:
 
 [![](/img/newwindow.png)](newwindow.py)
+
+- A tab case:
+
+[![](/img/tab.png)](tab.py)
+
+- A grid case:
+
+[![](/img/grid.png)](grid.py)
+
+- A progressbar case:
+
+[![](/img/progressbar.png)](progressbar.py)
+
+- A canvas case:
+
+[![](/img/canvas.png)](canvas.py)
+
+- A key event case:
+
+[![](/img/keyevent.png)](keyevent.py)
+
+- A mouseevent case:
+
+[![](/img/mouseevent.png)](mouseevent.py)
+
+- A drag&drop case:
+
+[![](/img/drag_drop.gif)](drag_drop.py)
+
+- A moveimage case:
+
+[![](/img/moveimage.gif)](moveimage.py)
+
+- A case of moving images on Canvas:
+
+[![](/img/Acaseofmovingimageoncanvas.gif)](Acaseofmovingimageoncanvas.py)
