@@ -13,8 +13,8 @@ canvas = Canvas(window,width=WIDTH,height=HEIGHT)
 canvas.pack()
 
 volley_ball = Ball(canvas,0,0,100,random.randrange(10),random.randrange(10),"white")
-tennis_ball = Ball(canvas,20,20,40,random.randrange(10),random.randrange(10),"red")
-basket_ball = Ball(canvas,50,50,20,random.randrange(10),random.randrange(10),"blue")
+tennis_ball = Ball(canvas,20,20,40,random.randrange(5),random.randrange(10),"red")
+basket_ball = Ball(canvas,50,50,20,random.randrange(5),random.randrange(5),"blue")
 
 while True:
     volley_ball.move()

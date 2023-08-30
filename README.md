@@ -100,3 +100,10 @@
 
 [![](/img/animation.gif)](animation.py)
 
+- A Multiple Animations case:
+
+[![](/img/multipleAnimation.gif)](multipleAnimation.py)
+
+- A clock program case:
+
+[![](/img/clockProgram.gif)](clockProgram.py)
