@@ -95,3 +95,8 @@
 - A case of moving images on Canvas:
 
 [![](/img/Acaseofmovingimageoncanvas.gif)](Acaseofmovingimageoncanvas.py)
+
+- An animation case:
+
+[![](/img/animation.gif)](animation.py)
+
